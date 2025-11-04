@@ -1,4 +1,4 @@
-# Gaby_first_repository_GitHub
+# Gaby's First Repository
 Primer repositorio creado en GitHub
 
 ## descripción
