@@ -1,6 +1,7 @@
 firstname= "Liliana"
 lastname= "Beas"
 
-Greetings = " Hello " + name + lastname
+Greetings = " Hello " + firstname + lastname
 
 print(Greetings + "Welcome to...")
+
