@@ -1,7 +1,8 @@
-firstname= "Liliana"
-lastname= "Beas"
+firstname= "Gabriel"
+lastname= " Beas"
 
 Greetings = " Hello " + firstname + lastname
 
-print(Greetings + "Welcome to...")
+print(Greetings + " Welcome to...")
+
 
