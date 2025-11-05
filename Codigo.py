@@ -1,8 +1,8 @@
-firstname= "Gabriel"
-lastname= " Beas"
+Name = "Gaby"
 
-Greetings = " Hello " + firstname + lastname
+Greetings = " Hello " + Name
 
 print(Greetings + " Welcome to...")
+
 
 
