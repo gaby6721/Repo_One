@@ -1,7 +1,6 @@
-firstname= "Gabriel"
-middlename= "Alejandro "
-surname = "Rodriguez "
+firstname= "Liliana"
 lastname= "Beas"
 
-Greetings = " Hello " + name +  middlename +  surname +  lastname
+Greetings = " Hello " + name + lastname
+
 print(Greetings + "Welcome to...")
