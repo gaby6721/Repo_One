@@ -1,4 +1,4 @@
-name= "Gabriel "
+firstname= "Gabriel"
 middlename= "Alejandro "
 surname = "Rodriguez "
 lastname= "Beas"
