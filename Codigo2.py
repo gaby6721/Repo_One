@@ -1,2 +1,2 @@
 Nombre = "Lissette"
-print("Hola" + Nombre)
+print("Hola " + Nombre)
